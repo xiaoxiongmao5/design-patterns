@@ -1,4 +1,4 @@
-package interfaceoptions
+package optionalinterface
 
 import (
 	"fmt"
